@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@android:drawable/ic_menu_compass"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_ServerInfo"
+            android:icon="@android:drawable/ic_menu_compass"
+            android:title="@string/serverinfo" />
+        <item
+            android:id="@+id/nav_rule"
+            android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="@string/rule" />
+        <item
+            android:id="@+id/nav_we"
+            android:icon="@android:drawable/ic_menu_compass"
+            android:title="@string/we" />
+        <item
+            android:id="@+id/nav_developers"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="@string/developers" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@android:drawable/ic_menu_preferences"
+            android:title="@string/action_settings" />
+    </group>
+
+    <item android:title="@string/lnk">
+        <menu>
+            <item
+                android:id="@+id/nav_homepage"
+                android:title="@string/homepage" />
+            <item
+                android:id="@+id/nav_google"
+                android:title="@string/google" />
+            <item
+                android:id="@+id/nav_google_space"
+                android:title="@string/google_space" />
+            <item
+                android:id="@+id/nav_lobi"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/nav_line"
+                android:title="@string/line" />
+            <item
+                android:id="@+id/nav_shere"
+                android:title="@string/shere" />
+        </menu>
+    </item>
+
+</menu>

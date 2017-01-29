@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#71C3DE</color>
+    <color name="colorPrimaryDark">#71C3DE</color>
+    <color name="colorAccent">#71C3DE</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="Sucsess">#8effa6</color>
+    <color name="Filed">#ff0000</color>
+    <color name="barColor">#3a438e</color>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+    <color name="cardview_initial_background">#71C3DE</color>
+    <color name="colorBlack">#1a1a1a</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorGray">#dcdcdc</color>
+    <color name="colorTrans">#00000000</color>
+</resources>
